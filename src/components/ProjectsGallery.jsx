@@ -20,17 +20,17 @@ const ProjectsGallery = () => {
   const projectsData = [
     // Pavement Projects
     { id: 1, category: 'pavements', title: 'Driveway', location: 'Mossel Bay', year: '2025', image: '/6042103436343446957.jpg', description: 'Premium patterned concrete driveway with decorative borders.' },
-    { id: 2, category: 'pavements', title: 'Commercial Parking Lot', location: 'George', year: '2025', image: '../public/commercialdriveway.jpg.jpg', description: 'Large-scale commercial parking lot with proper drainage systems.' },
+    { id: 2, category: 'pavements', title: 'Commercial Parking Lot', location: 'George', year: '2025', image: '/commercialdriveway.jpg.jpg', description: 'Large-scale commercial parking lot with proper drainage systems.' },
     { id: 3, category: 'pavements', title: 'Garden Pathway', location: 'Mossel Bay', year: '2024', image: '/6042103436343446950.jpg', description: 'Decorative stone pathway with integrated landscape lighting.' },
-    { id: 4, category: 'pavements', title: 'Residential Street', location: 'Knysna', year: '2024', image: '../public/residentialpathway.png.jpg', description: 'Complete residential street pavement with curb installation.' },
+    { id: 4, category: 'pavements', title: 'Residential Street', location: 'Knysna', year: '2024', image: '/residentialpathway.png.jpg', description: 'Complete residential street pavement with curb installation.' },
     
     // Blocks & Walls Projects
-    { id: 5, category: 'blocks', title: 'Garden Retaining Wall', location: 'Mossel Bay', year: '2025', image: '../public/retainingwall.jpg', description: 'Decorative concrete block retaining wall with integrated planters.' },
+    { id: 5, category: 'blocks', title: 'Garden Retaining Wall', location: 'Mossel Bay', year: '2025', image: '/retainingwall.jpg', description: 'Decorative concrete block retaining wall with integrated planters.' },
     { id: 6, category: 'blocks', title: 'Security Wall', location: 'George', year: '2025', image: '/6042103436343446948.jpg', description: 'High-security perimeter wall with modern design elements.' },
     
     
     // Building Projects
-    { id: 8, category: 'building', title: 'Modern House Extension', location: 'Mossel Bay', year: '2025', image: '../public/building.jpg', description: 'Two-story house extension with contemporary architectural design.' },
+    { id: 8, category: 'building', title: 'Modern House Extension', location: 'Mossel Bay', year: '2025', image: '/public/building.jpg', description: 'Two-story house extension with contemporary architectural design.' },
     { id: 9, category: 'building', title: 'Office Complex', location: 'George', year: '2024', image: 'https://images.unsplash.com/photo-1497366754035-f200968a6e72?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80', description: 'Commercial office building construction from foundation to completion.' },
     { id: 10, category: 'building', title: 'Duplex Development', location: 'Mossel Bay', year: '2024', image: 'https://images.unsplash.com/photo-1567496898669-ee935f003f30?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80', description: 'Modern duplex housing development with shared amenities.' },
     
