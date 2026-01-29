@@ -32,7 +32,7 @@ const Footer = () => {
     { icon: 'fab fa-facebook-f', href: 'https://facebook.com/mulwiprojects', name: 'Facebook' },
     { icon: 'fab fa-instagram', href: 'https://instagram.com/mulwiprojects', name: 'Instagram' },
     { icon: 'fab fa-linkedin-in', href: 'https://linkedin.com/company/mulwiprojects', name: 'LinkedIn' },
-    { icon: 'fab fa-whatsapp', href: 'https://wa.me/27451234567', name: 'WhatsApp' },
+    { icon: 'fab fa-whatsapp', href: 'https://wa.me/27765149500', name: 'WhatsApp' },
   ];
 
   useEffect(() => {
