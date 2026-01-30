@@ -37,7 +37,7 @@ const Hero = () => {
         <div className="hero-content">
           <h2>{typedText}</h2>
           <p className="fade-in-up" style={{ animationDelay: '0.2s' }}>
-            Specializing in premium pavements, concrete blocks, and construction projects. 
+            Specializing in premium paving, retaining blocks, kerbs and general  construction projects. 
             With years of experience and commitment to quality, we transform visions into lasting structures.
           </p>
           <div className="hero-buttons fade-in-up" style={{ animationDelay: '0.4s' }}>
